@@ -105,7 +105,6 @@ pytest -s --url=https://google.com
 - [ ] Detailed PDF report
 
 ---
-
 **Developed an automated Broken Image Detection Framework using Python, Selenium, Requests, Pandas, and PyTest. Built a modular testing architecture supporting command-line URL injection. Implemented HTTP validation for all images and generated professional HTML/CSV reports. Demonstrated skills in UI testing, automation frameworks, and robust error handling.**
 
 ---
